@@ -14,9 +14,13 @@ Creado por
 
 Si has encontrado este repositorio por casualidad, bienvenido.
 
-Si vas a realizar la misma asignatura con el mismo proyecto y tienes intenciones de usarlo como tuyo, ni lo pienses: aunque esté expuesto de forma pública en internet, no significa que puedas plagiarlo y usarlo como tuyo. Los profesores no son tontos. Además, este proyecto está bajo una licencia [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/). TL;DR: Puedes modificarlo, siempre y cuando mantenga la misma licencia, no lo uses de forma comercial y atribuyas correctamente a sus autores.
+Si vas a realizar la misma asignatura con el mismo proyecto y tienes intenciones de usarlo como tuyo, ni lo pienses: aunque esté expuesto de forma pública en internet, no significa que puedas plagiarlo y usarlo como tuyo. Los profesores no son tontos. 
 
-Sin embargo, siente libre de tomar inspiración e ideas
+Además, este proyecto está bajo una licencia [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/). 
+
+*TL;DR: Puedes modificarlo, siempre y cuando mantenga la misma licencia, no lo uses de forma comercial y atribuyas correctamente a sus autores.*
+
+Sin embargo, siente libre de tomar inspiración e ideas.
 
 ## Preparación
 
